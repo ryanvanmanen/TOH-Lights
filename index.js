@@ -1,9 +1,9 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoicnlhbnZhbm1hbmVuIiwiYSI6ImNreTI1MGNiYTBoaGUyeW9kdWFqODBoankifQ.p9v5Sx-GtlttBSWiREPMyQ';
+mapboxgl.accessToken = 'pk.eyJ1IjoicnlhbnZhbm1hbmVuIiwiYSI6ImNsOWg1emZvNDA4ankzdm9kMW9wd3A1eTgifQ.lyDr7Y9eUg5iTMWyNP48JA';
     const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/ryanvanmanen/cl9g2482t001214o0omu10ky9',
-        center: [ -73.926393,
-      40.78422],
+        center: [ -73,
+      40],
         minZoom: 13,  
         maxZoom: 25,
         zoom: 12.5
