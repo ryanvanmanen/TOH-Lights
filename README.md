@@ -1,4 +1,4 @@
-Boundaries of incorporated villages and unincorporated hamlets of the Town of Hempstead.
+<h2>Boundaries of incorporated villages and unincorporated hamlets of the Town of Hempstead.</h2>
 
 NYS Incorporated Villages, source: NYS Civil Boundaries data -->
 http://gis.ny.gov/civil-boundaries/
